@@ -76,7 +76,7 @@
                     android:id="@+id/txt2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:theme="contraseña"
+
                     app:counterEnabled="true"
                     app:counterMaxLength="30"
                     app:errorEnabled="true"
@@ -123,7 +123,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/Acep"
-                android:theme="@style/MyStyle_buton"
+
 
 
 
@@ -134,7 +134,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/can"
-                android:theme="@style/MyStyle_buton"
+
 
 
 
